@@ -1,0 +1,11 @@
+{
+    "name": "package/post",
+    "description": "this is package handle posts",
+    "authors": [
+        {
+            "name": "nguyenhan",
+            "email": "hannguyen3111999@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
